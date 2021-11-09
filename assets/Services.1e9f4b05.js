@@ -1,0 +1,1 @@
+import{R as e}from"./ResponsiveHeader.67589654.js";import{t,a as s,w as o,u as r,o as a,A as c}from"./vendor.f1674816.js";import"./index.e91d784c.js";const n={class:"text-primary text-center"},d=r("br",null,null,-1),i=c("Services"),f={setup(_){return(l,p)=>(a(),t("div",n,[d,s(e,null,{default:o(()=>[i]),_:1})]))}};export{f as default};
