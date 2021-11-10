@@ -1,1 +1,0 @@
-import{_ as s}from"./index.e91d784c.js";import{o as r,t as o,s as t,x as a}from"./vendor.f1674816.js";const n={};function c(e,l){return r(),o("p",{class:a(e.$q.screen.lt.md?"text-h4":"text-h2")},[t(e.$slots,"default")],2)}var m=s(n,[["render",c]]);export{m as R};
